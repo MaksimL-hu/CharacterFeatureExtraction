@@ -40,6 +40,11 @@ lab5_output/alphabet.txt
 
 Для генерации изображений используется шрифт Ponomar Unicode.
 
+Установить его можно из архива:
+```text
+Ponomar Unicode.zip
+```
+
 ---
 
 # Основные настройки
